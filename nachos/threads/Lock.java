@@ -2,8 +2,8 @@ package nachos.threads;
 
 import nachos.machine.*;
 
-//important commit
-//important commit
+//This commit does important stuff
+//This commit does important stuff
 /**
  * A <tt>Lock</tt> is a synchronization primitive that has two states,
  * <i>busy</i> and <i>free</i>. There are only two operations allowed on a
