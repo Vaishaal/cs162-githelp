@@ -49,6 +49,12 @@ import java.util.LinkedList;
  * gets a chance to run. The advance to Mesa-style semantics is that it is a
  * lot easier to implement.
  */
+//This commit does important stuff
+//This commit does important stuff
+//This commit does important stuff
+//This commit does important stuff
+//This commit does important stuff
+//This commit does important stuff
 public class Condition {
     /**
      * Allocate a new condition variable.
